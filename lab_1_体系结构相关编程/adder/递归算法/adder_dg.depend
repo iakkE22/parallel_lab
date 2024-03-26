@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711288738 source:f:\codeblock\dyma\adder_dg\main.cpp
+	<iostream>
+	<windows.h>
+

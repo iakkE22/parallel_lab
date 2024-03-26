@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711185046 source:f:\codeblock\dyma\bx01_cachematrix\main.cpp
+	<iostream>
+	<windows.h>
+
